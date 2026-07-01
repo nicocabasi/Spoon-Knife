@@ -8,7 +8,11 @@
     font-weight: 900;
 }
 
-p {
+.odd {
     background-color: #f692a1;
     font-family: Verdana, Arial, sans-serif;
+}
+
+.adjust-font-size {
+    font-size: 24px;
 }
